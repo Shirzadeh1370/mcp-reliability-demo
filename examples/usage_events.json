@@ -1,0 +1,5 @@
+[
+  {"tool": "incident_triage", "status": "ok"},
+  {"tool": "health_check", "status": "ok"},
+  {"tool": "incident_triage", "status": "error"}
+]
